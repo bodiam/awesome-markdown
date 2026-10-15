@@ -671,6 +671,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [ReadGZH](https://github.com/sweesama/readgzh) - Converts existing public WeChat Official Account article URLs into text or Markdown through a hosted website, REST API or remote MCP. Service credits apply; cache search is not a full WeChat search, and images are not a complete offline archive.<br>
   <span>`Open source` · `Web` · `API` · [Website](https://readgzh.site/)</span>
 
+- [PDFtoMarkdown.ai](https://pdftomarkdown.ai/) - A hosted service that converts PDFs to Markdown for Claude, ChatGPT, Obsidian, RAG and agent workflows, with optional OCR for scanned files. Use it in the browser, through a REST API, or from MCP clients with the MIT-licensed @happywp/pdftomarkdown-mcp server. Files are uploaded to the service for conversion. It starts free; larger documents use prepaid pay-per-page credits that do not expire, with no subscription. Check tables and numbers against the source.<br>
+  <span>`Free option` · `Web` · `API` · [MCP setup](https://pdftomarkdown.ai/mcp) · [MCP server](https://github.com/happywpco/pdftomarkdown-mcp)</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation

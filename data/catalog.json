@@ -5388,6 +5388,57 @@
       }
     },
     {
+      "id": "pdftomarkdown-ai",
+      "name": {
+        "en": "PDFtoMarkdown.ai",
+        "zh": "PDFtoMarkdown.ai"
+      },
+      "url": "https://pdftomarkdown.ai/",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "A hosted service that converts PDFs to Markdown for Claude, ChatGPT, Obsidian, RAG and agent workflows, with optional OCR for scanned files. Use it in the browser, through a REST API, or from MCP clients with the MIT-licensed @happywp/pdftomarkdown-mcp server. Files are uploaded to the service for conversion. It starts free; larger documents use prepaid pay-per-page credits that do not expire, with no subscription. Check tables and numbers against the source.",
+        "zh": "托管式 PDF 转 Markdown 服务，面向 Claude、ChatGPT、Obsidian、RAG 与 AI 代理工作流，扫描件可选 OCR。可通过网页、REST API，或在 MCP 客户端中借助 MIT 许可的 @happywp/pdftomarkdown-mcp 服务器使用。文件需上传至该服务进行转换。可免费开始，较大文档按页使用预付积分，积分不过期，无需订阅。重要表格与数值应对照原文核对。"
+      },
+      "tags": [
+        "free-tier",
+        "web",
+        "api"
+      ],
+      "links": [
+        {
+          "url": "https://pdftomarkdown.ai/mcp",
+          "label": {
+            "en": "MCP setup",
+            "zh": "MCP 配置"
+          }
+        },
+        {
+          "url": "https://github.com/happywpco/pdftomarkdown-mcp",
+          "label": {
+            "en": "MCP server",
+            "zh": "MCP 服务器"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-14",
+        "level": "source-review",
+        "sources": [
+          "https://pdftomarkdown.ai/",
+          "https://pdftomarkdown.ai/pricing",
+          "https://pdftomarkdown.ai/mcp",
+          "https://pdftomarkdown.ai/llms.txt",
+          "https://github.com/happywpco/pdftomarkdown-mcp"
+        ],
+        "note": {
+          "en": "Reviewed the official homepage, pricing, MCP and llms.txt pages for PDF-to-Markdown conversion, optional OCR, browser/REST API/MCP access, the free start, non-expiring prepaid page credits and no-subscription terms, plus the MIT license of the MCP server repository. The hosted converter itself is not open source and processes uploaded files. No application test. Submitted on behalf of the developer.",
+          "zh": "核对官网首页、定价、MCP 与 llms.txt 页面中的 PDF 转 Markdown、可选 OCR、网页/REST API/MCP 接入、免费开始、预付页数积分不过期及无需订阅的说明，并核对 MCP 服务器仓库的 MIT 许可。托管转换服务本身并非开源，需处理上传的文件。未进行应用实测。代表开发者提交。"
+        }
+      }
+    },
+    {
       "id": "md2card",
       "name": {
         "en": "MD2Card",

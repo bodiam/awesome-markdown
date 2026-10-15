@@ -627,6 +627,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [ReadGZH](https://github.com/sweesama/readgzh) - 通过托管网页、REST API 或远程 MCP，将已有公开微信公众号文章链接转为正文或 Markdown。在线服务按积分规则使用；缓存搜索不是全微信搜索，图片也不等于完整离线存档。<br>
   <span>`开源` · `Web` · `API` · [官网](https://readgzh.site/)</span>
 
+- [PDFtoMarkdown.ai](https://pdftomarkdown.ai/) - 托管式 PDF 转 Markdown 服务，面向 Claude、ChatGPT、Obsidian、RAG 与 AI 代理工作流，扫描件可选 OCR。可通过网页、REST API，或在 MCP 客户端中借助 MIT 许可的 @happywp/pdftomarkdown-mcp 服务器使用。文件需上传至该服务进行转换。可免费开始，较大文档按页使用预付积分，积分不过期，无需订阅。重要表格与数值应对照原文核对。<br>
+  <span>`提供免费方案` · `Web` · `API` · [MCP 配置](https://pdftomarkdown.ai/mcp) · [MCP 服务器](https://github.com/happywpco/pdftomarkdown-mcp)</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。

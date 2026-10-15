@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-14
+
+- Added PDFtoMarkdown.ai to To Markdown, with its hosted upload, web/API/MCP access, free start and prepaid page-credit terms. 「转为 Markdown」新增 PDFtoMarkdown.ai，注明托管上传处理、网页/API/MCP 接入、免费开始及预付页数积分条款。
+
 ## 2026-10-13
 
 - Added Ritemark to both catalogs, with its local Markdown workflow and AI account, cost and data-handling boundaries. 双语清单新增 Ritemark，注明本地 Markdown 工作流及 AI 账号、费用和内容处理边界。
